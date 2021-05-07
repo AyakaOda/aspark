@@ -1,0 +1,21 @@
+.a:after {
+  content: "";
+  clear: both;
+  display: block;
+}
+.a {
+  width: 1000px;
+  background-color: black;
+}
+
+.b {
+  width: 40%;
+  float: left;
+  background-color: white;
+}
+
+.c {
+  width: 40%;
+  float: left;
+  background-color: white;
+}
